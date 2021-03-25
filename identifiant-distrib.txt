@@ -1,2 +1,2 @@
-login=enzo
-passe=enzopass
+login=login
+passe=passe
